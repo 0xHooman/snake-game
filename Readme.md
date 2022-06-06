@@ -21,3 +21,9 @@
 ##### If your snake is moving from up to down and you press up key, game will be over.
 
 ##### Points are calculated on the basis of food captures which will be displayed at the end of the game.
+
+<br><br>
+<img src = "./snake.jpg">
+
+<br><br>
+<img src = "./snakeend.jpg">
